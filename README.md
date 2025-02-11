@@ -19,14 +19,12 @@ Um gerador de senhas seguro e personalizável, desenvolvido com HTML, CSS e Java
 - CSS3
 - JavaScript
 
-## 📦 Como Usar
-
-1. Clone este repositório:
-   ```bash
-   git clone https://github.com/rafaelasv/gerador-senhas.git
+## 🛠 Melhorias Futuras
+- Design responsivo para telas pequenas.
+- Adicionar animações para uma experiência mais fluida
+- Criar uma versão em React para prática
 
 #
-
 Feito com ♡ por Rafaela
 
 Este projeto foi criado apenas para fins de aprendizado e portfólio. Caso queira utilizá-lo ou modificá-lo, entre em contato.
