@@ -27,9 +27,6 @@ Um gerador de senhas seguro e personalizável, desenvolvido com HTML, CSS e Java
 
 #
 
-
 Feito com ♡ por Rafaela
-
-#
 
 Este projeto foi criado apenas para fins de aprendizado e portfólio. Caso queira utilizá-lo ou modificá-lo, entre em contato.
