@@ -25,6 +25,6 @@ Um gerador de senhas seguro e personalizável, desenvolvido com HTML, CSS e Java
 - Criar uma versão em React para prática
 
 #
-Feito com ♡ por Rafaela
+Feito com ♡ por Rafaela T.
 
 Este projeto foi criado apenas para fins de aprendizado e portfólio. Caso queira utilizá-lo ou modificá-lo, entre em contato.
