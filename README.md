@@ -20,9 +20,9 @@ Um gerador de senhas seguro e personalizável, desenvolvido com HTML, CSS e Java
 - JavaScript
 
 ## 🛠 Melhorias Futuras
-- Design responsivo para telas pequenas.
-- Adicionar animações para uma experiência mais fluida
-- Criar uma versão em React para prática
+- Design responsivo para telas pequenas;
+- Adicionar animações para uma experiência mais fluida;
+- Criar uma versão em React para prática.
 
 #
 Feito com ♡ por Rafaela T.
